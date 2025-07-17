@@ -2,12 +2,21 @@
 
 Repositório com os exercícios resolvidos durante meu aprendizado de lógica de programação, utilizando o VisualG e Portugol. Os exercícios estão organizados por **aulas**, conforme a estrutura do curso que estou seguindo.
 
-## 📚 Organização
+Curso em video, com Gustavo Guanabara.
 
-- `aula01/`: Introdução ao VisualG, comandos básicos
-- `aula02/`: Entrada de dados
-- `aula03/`: Operações matemáticas e variáveis
-- *(e assim por diante...)*
+## 📚 Organização
+- `aula07/`: Estruturas Condicionais 1
+- `aula08/`: Estruturas Condicionais 2
+- `aula09/`: Estrtuturas de Repetição 1
+- `aula10/`: Estrtuturas de Repetição 2
+- `aula11/`: Estrtuturas de Repetição 3
+- `aula12/`: Procedimentos
+- `aula13/`: Funções
+- `aula14/`: Vetores
+- `aula15/`: Matrizes
+- `extras` : Exercícios extras
+- `backup` : backup dos arquivos 
+
 
 ## 🧰 Ferramentas utilizadas
 
