@@ -23,4 +23,4 @@ Repositório com os exercícios resolvidos durante meu aprendizado de lógica de
 
 Pedro Luno  
 Estudante de Análise e Desenvolvimento de Sistemas  
-[GitHub](https://github.com/seu-usuario)  
+[GitHub](https://github.com/pedroluno)  
